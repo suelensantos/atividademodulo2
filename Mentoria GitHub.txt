@@ -1,0 +1,13 @@
+#GitHub4Women é um programa de capacitação para mulheres em GitHub, com o objetivo de
+impulsionar o desenvolvimento de suas carreiras e ampliar suas oportunidades de
+empregabilidade em tecnologia. 
+ 
+O programa terá duração de 5 semanas, com 2 aulas semanais transmitidas ao vivo para
+todas as participantes inscritas. Ao final do programa, será realizada uma avaliação,
+e as 100 mulheres com melhor desempenho receberão um voucher para a certificação GitHub
+Foundation. 
+
+Além dos vouchers, as alunas também terão a oportunidade de serem selecionadas para
+um evento no escritório da Microsoft em São Paulo, que será realizado em conjunto
+com o RH e gestores da área de tecnologia. Será uma oportunidade valiosa para aprender,
+fazer networking e impulsionar o desenvolvimento de suas carreiras. 
